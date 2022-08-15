@@ -16,7 +16,7 @@ public class Cat {
         void play(){
             System.out.println("Playing");
         }
-        /*void feed(){
+        void feed(){
             System.out.println("Eating");
-        }*/
+        }
 }

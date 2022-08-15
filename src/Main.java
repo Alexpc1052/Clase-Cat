@@ -22,6 +22,16 @@ public class Main {
         rambo.color = "Brown";
 
         rambo.play();
+
+        /*
+       Defining feed cat
+        */
+        rambo.name = "Rambo";
+        rambo.age = 4;
+        rambo.breed = "Maine Coon";
+        rambo.color = "Brown";
+
+        rambo.feed();
     }
 
 }
